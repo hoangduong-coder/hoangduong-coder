@@ -4,7 +4,8 @@
 - 📫 You can reach me at hoangduongphantri@gmail.com for more information and/or for collaborate in a project
 I am looking forward to hearing and learning more from all of you.
 
-Best wishes,
+Best wishes
+
 Hoang Duong
 
 <!---
