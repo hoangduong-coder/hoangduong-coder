@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Hoang, but you can call me Howard instead.
-- 💡 I’m passionate about creating scalable, creative, and user-friendly Full-Stack applications. I'm always an enthusiastic learner who prefers to challenge myself.
-- 📝 I'm learning Python (FastAPI), MySQL, and AWS.
-- 📫 You can reach me at hoangduongphantri@gmail.com for any questions or any offers for collaborating on your project.
+👋 Hi, I’m Hoang, but you can call me Howard instead.
+
+💡 I’m passionate about creating scalable, creative, and user-friendly Full-Stack applications. I'm always an enthusiastic learner who prefers to challenge myself.
+
+📝 I'm learning Python (FastAPI), MySQL, and AWS.
+
+📫 You can reach me at hoangduongphantri@gmail.com for any questions or any offers for collaborating on your project.
 
 Technical skills:
 
