@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Hoang, but you can call me Howard instead.
+## 👋 Hi, I’m Hoang (Howard).
 
 💡 I'm a full-stack developer with two years of working experience. My passion is creating scalable, creative, and user-friendly Full-Stack applications. I always keep on learning by challenging myself with tasks and projects.
 
