@@ -1,13 +1,10 @@
-👋 Hi, I’m Hoang, but you can call me Howard instead.
-💡 I’m passionate about creating scalable, creative, and user-friendly Full-Stack applications. I'm always an enthusiastic learner who prefers to challenge myself.
-📝 I'm learning Python (FastAPI), MySQL, and AWS.
-📫 You can reach me at hoangduongphantri@gmail.com for any questions or any offers for collaborating on your project.
+-👋 Hi, I’m Hoang, but you can call me Howard instead.
+-💡 I’m passionate about creating scalable, creative, and user-friendly Full-Stack applications. I'm always an enthusiastic learner who prefers to challenge myself.
+-📝 I'm learning Python (FastAPI), MySQL, and AWS.
+-📫 You can reach me at hoangduongphantri@gmail.com for any questions or any offers for collaborating on your project.
 
 Technical skills:
-- Languages: [![My Skills](https://skillicons.dev/icons?i=js,ts,py,nextjs,nodejs,html,css,sass)](https://skillicons.dev)
-- Libraries/Frameworks: [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,jest,fastapi,express,dynamodb,graphql,mongodb,materialui,mysql)](https://skillicons.dev)
-- Tools: [![My Skills](https://skillicons.dev/icons?i=linux,git,figma,aws)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nextjs,nodejs,html,css,sass,react,nextjs,nodejs,jest,fastapi,express,dynamodb,graphql,mongodb,materialui,mysql,linux,git,figma,aws)](https://skillicons.dev)
 
 I am looking forward to hearing and learning more from all of you.  
 
