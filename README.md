@@ -8,7 +8,7 @@
 
 Technical skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nextjs,nodejs,html,css,sass,react,nextjs,nodejs,jest,fastapi,express,dynamodb,graphql,mongodb,materialui,mysql,linux,git,figma,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,sass,react,nextjs,nodejs,jest,fastapi,express,graphql,mongodb,materialui,dynamodb,mysql,linux,git,figma,aws)](https://skillicons.dev)
 
 I am looking forward to hearing and learning more from all of you.  
 
