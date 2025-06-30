@@ -2,11 +2,7 @@
 
 💡 I'm a full-stack developer interested in working in AI-related projects. Looking forward to collaborating with you all and joining the emerging developer community!
 
-📫 You can reach me at hoangduongphantri@gmail.com for any questions or any offers for collaborating on your project.
-
-Contact me: 
-![+358504146760](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![+84906110235](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+📫 You can reach me at hoangduongphantri@gmail.com or by phone +358504146760/+84906110235 for any questions or any offers for collaborating on your project.
 
 I am looking forward to hearing and learning more from all of you.  
 
