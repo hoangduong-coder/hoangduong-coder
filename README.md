@@ -1,18 +1,16 @@
 ## 👋 Hi, I’m Hoang (Howard)
 
-💡 I'm a full-stack developer with two years of working experience. My passion is creating scalable, creative, and user-friendly Full-Stack applications. I always keep on learning by challenging myself with tasks and projects.
-
-📝 I'm learning Python (FastAPI), MySQL, and AWS.
+💡 I'm a full-stack developer interested in working in AI-related projects. Looking forward to collaborating with you all and joining the emerging developer community!
 
 📫 You can reach me at hoangduongphantri@gmail.com for any questions or any offers for collaborating on your project.
 
-Technical skills:
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,sass,react,nextjs,nodejs,jest,fastapi,express,graphql,mongodb,materialui,dynamodb,mysql,linux,git,figma,aws)](https://skillicons.dev)
+Contact me: 
+![+358504146760](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![+84906110235](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 I am looking forward to hearing and learning more from all of you.  
 
-Best wishes  
+Best wishes
 Hoang Duong
 
 <!---
